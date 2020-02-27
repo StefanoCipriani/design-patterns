@@ -9,10 +9,10 @@ public class MainTemplatePattern {
 		Game game = new EndlessRunnerGame();
 		game.play();
 		
-		/*
+		
 		System.out.println("==================");
 		game = new FootballGame();
-		game.play();*/
+		game.play();
 	}
 	
 	
