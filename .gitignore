@@ -1,6 +1,9 @@
 target/
 !.mvn/wrapper/maven-wrapper.jar
 
+
+src/main/java/com/design/pattern/sqldevdecrypt/
+
 ### STS ###
 .apt_generated
 .classpath
