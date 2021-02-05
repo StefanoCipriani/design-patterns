@@ -1,4 +1,4 @@
-package com.design.pattern.command.impl.two.devices;
+package com.design.pattern.command.impl.two.recivers;
 
 public class Light {
 

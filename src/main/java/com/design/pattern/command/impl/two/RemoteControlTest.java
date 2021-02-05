@@ -2,9 +2,9 @@ package com.design.pattern.command.impl.two;
 
 import com.design.pattern.command.impl.two.commands.GarageDoorOpenCommand;
 import com.design.pattern.command.impl.two.commands.LightOnCommand;
-import com.design.pattern.command.impl.two.devices.GarageDoor;
-import com.design.pattern.command.impl.two.devices.Light;
 import com.design.pattern.command.impl.two.interfaces.Command;
+import com.design.pattern.command.impl.two.recivers.GarageDoor;
+import com.design.pattern.command.impl.two.recivers.Light;
 
 public class RemoteControlTest {
 
