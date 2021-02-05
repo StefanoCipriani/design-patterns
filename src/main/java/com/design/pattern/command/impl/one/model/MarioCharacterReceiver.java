@@ -1,6 +1,6 @@
-package com.design.pattern.command.model;
+package com.design.pattern.command.impl.one.model;
 
-public class KirbyCharacterReceiver {
+public class MarioCharacterReceiver {
 
 	private String name;
 

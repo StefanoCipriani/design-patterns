@@ -1,8 +1,8 @@
-package com.design.pattern.command;
+package com.design.pattern.command.impl.one;
 
-import com.design.pattern.command.model.GameBoy;
-import com.design.pattern.command.model.KirbyCharacterReceiver;
-import com.design.pattern.command.model.MarioCharacterReceiver;
+import com.design.pattern.command.impl.one.model.GameBoy;
+import com.design.pattern.command.impl.one.model.KirbyCharacterReceiver;
+import com.design.pattern.command.impl.one.model.MarioCharacterReceiver;
 
 public class MainCommandPattern {
 

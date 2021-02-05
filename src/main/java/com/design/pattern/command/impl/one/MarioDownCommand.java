@@ -1,7 +1,7 @@
-package com.design.pattern.command;
+package com.design.pattern.command.impl.one;
 
-import com.design.pattern.command.interfaces.Command;
-import com.design.pattern.command.model.MarioCharacterReceiver;
+import com.design.pattern.command.impl.one.interfaces.Command;
+import com.design.pattern.command.impl.one.model.MarioCharacterReceiver;
 
 public class MarioDownCommand implements Command {
 

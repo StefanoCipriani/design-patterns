@@ -1,6 +1,6 @@
-package com.design.pattern.command.model;
+package com.design.pattern.command.impl.one.model;
 
-import com.design.pattern.command.interfaces.Command;
+import com.design.pattern.command.impl.one.interfaces.Command;
 
 /*Invoker*/
 public class GameBoy {
