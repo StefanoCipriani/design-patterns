@@ -14,9 +14,9 @@ public class Sample {
 
 	public void someMethod3() {
 		
-		System.out.append("f");
+		System.out.append("h");
 		System.out.println();
-		System.out.append("g");
+		System.out.append("");
 	}
 	
 	
