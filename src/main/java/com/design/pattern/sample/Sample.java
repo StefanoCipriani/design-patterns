@@ -4,7 +4,7 @@ public class Sample {
 
 	public void someMethod1() {
 	
-		System.out.append("a");
+		System.out.append("g");
 	}
 	
 	public void someMethod2() {
@@ -14,9 +14,9 @@ public class Sample {
 
 	public void someMethod3() {
 		
-		System.out.append("b");
+		System.out.append("h");
 		System.out.println();
-		System.out.append("c");
+		System.out.append("1");
 	}
 	
 	
